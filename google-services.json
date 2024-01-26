@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "793418476826",
+    "firebase_url": "https://database-6192c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "database-6192c",
+    "storage_bucket": "database-6192c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793418476826:android:71e91f8b75a7834aeb10a3",
+        "android_client_info": {
+          "package_name": "purealpha.dev.plantpal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793418476826-avtstderlnf5fubtmp0e1eduhogv5s8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBukc8cM0XXeZQvQLJk93W9mEfQZJekhQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793418476826-avtstderlnf5fubtmp0e1eduhogv5s8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
